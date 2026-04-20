@@ -13,7 +13,7 @@ from torchvision import transforms
 from datetime import datetime
 
 import google.generativeai as genai
-genai.configure(api_key="AIzaSyAxE_t2W81bpbhWFgI2snccT-XVNuWJjSU")
+
 
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
